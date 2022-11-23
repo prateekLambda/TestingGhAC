@@ -56,8 +56,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          repository: 'https://github.com/prateekLambda/TestingGhAC'
-          ref: 'release'
+          repository: 'https://github.com/prateekLambda/TestingGhAC.git'
       - uses: actions/github-script@v6
         env:
           country: '${{inputs.country}}'
