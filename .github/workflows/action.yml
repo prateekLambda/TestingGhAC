@@ -49,7 +49,7 @@ jobs:
     
     steps:
      
-      - uses: actions/github-script@v6
+      - name: set 
         env:
           country: ${{github.event.inputs.country}}
           brand: ${{github.event.inputs.brand}}
