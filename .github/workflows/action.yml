@@ -54,11 +54,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Execute E2E Tests
     steps:
-      - uses: actions/github-script@v2
-        env:
-          country: CL
-          brand: Esika
-          environment : QAS
       - name: Starting CLI testing
         shell: bash
         run: |
