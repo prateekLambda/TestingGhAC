@@ -59,9 +59,6 @@ jobs:
         run: |
             git clone https://github.com/prateekLambda/TestingGhAC.git
             cd TestingGhAC
-            const script = require('./.github/workflows/url.js')
-            console.log("VTEX BASE URL:")
-            console.log(script({core, context}))
               curl https://downloads.lambdatest.com/hyperexecute/windows/hyperexecute.exe -o hyperexecute
               export LT_USERNAME=${{ github.event.inputs.username }}
               export LT_ACCESS_KEY=${{ github.event.inputs.accessKey }}
