@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "Esika",
+        "Product": "Colonia Men Extreme, 200 ml",
+        "SKU": "200093884",
+        "urlBaseCart": "https://esika.tiendabelcorp.com.mx/colonia-men-extreme-200-ml/p",
+        "url": "//esika.tiendabelcorp.com.mx/colonia-men-extreme-200-ml/p",
+        "imgUrl": "https://belcorpmexico.vtexassets.com/arquivos/ids/837824-1200-1200?v=637998139902270000",
+        "couponValid": "separte30",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "brand": "Esika",
+        "Product": "Vibranza Blanc Perfume de Mujer, 45 ml",
+        "SKU": "200098555",
+        "urlBaseCart": "https://esika.tiendabelcorp.com.mx/vibranza-blanc-perfume-de-mujer-45-ml/p",
+        "url": "//esika.tiendabelcorp.com.mx/vibranza-blanc-perfume-de-mujer-45-ml/p",
+        "imgUrl": "https://belcorpmexico.vtexassets.com/arquivos/ids/839210-1200-auto?v=637998162783370000",
+        "couponValid": "separte30",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "Product": "EFC14A5MNW",
+        "SKU": "1066",
+        "url": "/freezer-horizontal-electrolux-efc14a5mnw/p"
+    },
+    {
+        "Product": "ProducTestTestProduct",
+        "SKU": "9999999999999999999",
+        "url": "/ProducTestTestProduct/p"
+    }
+]

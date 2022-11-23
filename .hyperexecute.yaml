@@ -1,0 +1,272 @@
+version: "0.1"
+user: hohammedestrada
+key: g66uMrK2CbzVNBRNFy7WZitJ93RxiOlIlzzynvJbLbh01UqHwg
+testSuites: []
+pre: [npm install]
+env:
+  CYPRESS_CACHE_FOLDER: cypressCache
+runson: win
+autosplit: true
+concurrency: 40
+testDiscovery:
+  autosubset: true
+  command: node testMX.js
+  mode: static
+  type: raw
+testDiscoveryResult:
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Cart.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/CartMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/CartMTO2.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Category.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/CategoryMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Checkout.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/CheckoutMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Consultora.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Footer.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Header.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Homepage.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/HomepageMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Login.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/MyAccount.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Pdp.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/PdpMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Promotion.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/PromotionMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Cart.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_CartMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_CartMTO2.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Category.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_CategoryMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Checkout.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_CheckoutMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Consultora.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Footer.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Header.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Homepage.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_HomepageMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Login.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_MyAccount.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Pdp.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_PdpMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Promotion.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Lbel,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_PromotionMTO.feature
+  --config baseUrl=https://lbel.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Lbel_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Cart.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/CartMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/CartMTO2.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Category.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/CategoryMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Checkout.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/CheckoutMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Consultora.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Footer.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Header.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Homepage.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/HomepageMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Login.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/MyAccount.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Pdp.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/PdpMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/Promotion.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Desktop/PromotionMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Cart.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_CartMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_CartMTO2.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Category.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_CategoryMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Checkout.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_CheckoutMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Consultora.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Footer.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Header.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Homepage.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_HomepageMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Login.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_MyAccount.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Pdp.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_PdpMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_Promotion.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+- --env country=MX,brand=Cyzone,environment=PRD,tags='@MX and not @QAS' --spec=cypress/integration/Mobile/Mobile_PromotionMTO.feature
+  --config baseUrl=https://cyzone.tiendabelcorp.com.mx/ --reporter mochawesome --reporter-options
+  reportFilename=MX_Cyzone_PRD_,reportDir=cypress/results,json=true
+testRunnerCommand: npx cypress run $test --browser=chrome-102.0 --headed --config
+  video=false
+globalTimeout: 90
+testSuiteTimeout: 90
+testSuiteStep: 90
+cacheDirectories:
+- node_modules
+- cypressCache
+cacheKey: '{{ checksum "package.json" }}'
+jobID: f4071508-ab1d-478b-a50a-7178eb9dc82d
+uploadArtefacts:
+- name: Reports
+  path:
+  - cypress\results\
+codeDirectory: ecommerce-nextgen-platform-automation-framework
+framework:
+  name: ""
+  flags: []
+  discoveryFlags: []
+  discoveryType: ""
+  runnerFlags: []
+  workingDirectory: ""
+  isTestNGXMLSuite: false
+  defaultReports: true
+cypressOps:
+  Build: Hyperexecute Cypress Sample Build
+  BuildTags:
+  - Hyperexecute-Cypress
+  Network: false
+  Performance: true
+  Tags:
+  - Hyperexecute
+  - Cypress
+  - Windows
+  - Autosplit
+  - V9
+cypress: true
+betaFeature:
+  setPartiallyCompletedAsCompleted: false
+combineTasksInMatrixMode: false

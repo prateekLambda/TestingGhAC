@@ -1,0 +1,46 @@
+[
+  [
+     {
+       "categoryMainBannerUrl": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/84e57e59-8562-49b4-9079-f03574fcd51d___4ecc27a3897666f7a5689bc6ada92f48.png",
+       "categoryMainBannerUrlMobile": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/0855e2a0-2a85-438b-aace-747d4c8becc4___5d9aec1243708ce6fea6309c0386b8d3.png",
+       "categoryNewUrlMTO": "maquillaje?utmi_cp=Lipis95"
+     }
+  ],
+  [
+     {
+       "categoryBtnMoreText": "Mostrar más"
+     }
+  ],
+  [
+     {
+       "categoryOrderTitle": "Ordenar por Relevancia",
+       "categoryOrderTitleMobile": "Relevancia",
+       "categoryFirstOption": "Relevancia"
+     }
+  ],
+  [
+    {
+      "categoryOrderIndex": "0",
+      "categoryOrderOptions": "Ventas",
+      "categoryOrderUrlVentas": "?order=OrderByTopSaleDESC"
+    },
+    {
+      "categoryOrderIndex": "1",
+      "categoryOrderOptions": "Más reciente",
+      "categoryOrderUrlReciente": "?order=OrderByReleaseDateDESC"
+    },
+    {
+      "categoryOrderIndex": "2",
+      "categoryOrderOptions": "Descuento"
+    },
+    {
+      "categoryOrderIndex": "3",
+      "categoryOrderOptions": "Precios más alto"
+    },
+    {
+      "categoryOrderIndex": "4",
+      "categoryOrderOptions": "Precios más bajo",
+      "categoryOrderUrlLowPrices": "?order=OrderByPriceASC"
+    }
+  ]
+]

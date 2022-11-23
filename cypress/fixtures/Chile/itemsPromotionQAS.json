@@ -1,0 +1,49 @@
+[    
+    {
+        "promoType": "More For less",
+        "promoName": "Promo 3x2 Red Power",
+        "promoSKU": "200106274",
+        "promoFullPrice": "$ 31.490",
+        "promoFreePrice": "Gratis",
+        "promoSubTotal": "$ 94.470",
+        "promoDiscount": "$ -31.490",
+        "promoTotal": "$ 62.980"
+    },
+    {
+        "promoType": "Buy together",
+        "promoName": "Descuento promos émotions",
+        "promoSKU": "200105327",
+        "promoFullPrice": "$ 17.990",
+        "promoBuyTogetherPrice": "$ 16.191",
+        "promoSKU2": "200105328",
+        "promoFullPrice2": "$ 17.990",
+        "promoBuyTogetherPrice2": "$ 14.392",        
+        "promoSubTotal": "$ 35.980",
+        "promoDiscount": "$ -5.397",
+        "promoTotal": "$ 30.583"
+    },    
+    {
+        "promoType": "Gift",
+        "promoName": "RXC buy vibranza get ritualeza",
+        "promoSKU": "200091328",
+        "promoFullPrice": "",
+        "promoBuyTogetherPrice": "",
+        "promoSKU2": "",
+        "promoFullPrice2": "",
+        "promoBuyTogetherPrice2": "",        
+        "promoSubTotal": "",
+        "promoDiscount": "",
+        "promoTotal": ""
+    }
+    , 
+    {
+        "promoType": "NotFreeShipping",
+        "promoName": "Labial Colorfix 24H",
+        "promoSKU": "200102645",
+        "promoFullPrice": "",
+        "promoBuyTogetherPrice": "",     
+        "promoSubTotal": "",
+        "promoDiscount": "",
+        "promoTotal": ""
+    }   
+] 

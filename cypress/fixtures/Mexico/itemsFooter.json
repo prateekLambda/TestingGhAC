@@ -1,0 +1,260 @@
+[
+  [
+    {
+      "title": "nuestras",
+      "text": "Nuestras Marcas",
+      "url": ""
+    },
+    {
+      "title": "legal",
+      "text": "Legal",
+      "url": ""
+    },
+    {
+      "title": "contactanos",
+      "text": "Contáctanos",
+      "url": ""
+    }
+  ],
+  [
+    {
+      "title": "esika",
+      "text": "Ésika",
+      "url":"\thttps://esika.tiendabelcorp.com.mx"
+    },
+    {
+      "title": "lbel",
+      "text": "L'Bel",
+      "url":"https://lbel.tiendabelcorp.com.mx"
+    },
+    {
+      "title": "cyzone",
+      "text": "Cyzone",
+      "url":"\thttps://cyzone.tiendabelcorp.com.mx"
+    },
+    {
+      "title": "condiciones-de-uso",
+      "text": "Condiciones de uso",
+      "url":"https://cdn1-prd.beautymovers.com/nextgencommerce/docs/legal/mx/condiciones-de-uso-web/2022.pdf"
+    },
+    {
+      "title": "politica-de-privacidad",
+      "text": "Política de privacidad",
+      "url":"https://cdn1-prd.beautymovers.com/nextgencommerce/docs/legal/mx/politica-de-privacidad/2022.pdf"
+    },
+    {
+      "title": "terminos-y-condiciones",
+      "text": "Términos y condiciones",
+      "url":"https://cdn1-prd.beautymovers.com/nextgencommerce/docs/legal/mx/tyc/2022.pdf"
+    },
+    {
+      "title": "derechos-arco",
+      "text": "Derechos ARCO",
+      "url":"https://cdn1-prd.beautymovers.com/Legal/Derechosarcocommerce.pdf"
+    },
+    {
+      "title": "autorizacion-de-publicidad",
+      "text": "Autorización para el envío de publicidad",
+      "url":"https://cdn1-prd.beautymovers.com/nextgencommerce/docs/legal/autorizacion-para-envio-de-publicidad/2022.pdf.pdf"
+    },
+    {
+      "title": "no-testeo-en-animais",
+      "text": "No testeo en animales",
+      "url":"https://cdn1-prd.beautymovers.com/Legal/Notesteadoenanimales.pdf"
+    },
+    {
+      "title": "politica-de-devoluciones",
+      "text": "Política de cambios y devoluciones",
+      "url":"https://cdn1-prd.beautymovers.com/nextgencommerce/docs/legal/mx/politica-de-cambios-y-devoluciones/2022.pdf"
+    },
+    {
+      "title": "libro-de-reclamaciones",
+      "text": "Libro de reclamaciones",
+      "url":"https://librodereclamaciones.belcorp.biz/"
+    },
+    {
+      "title": "como-comprar",
+      "text": "Cómo comprar",
+      "url":"https://cdn1-prd.beautymovers.com/Docs/Ayuda/MTO_PROCESO_DE_COMPRA_MULTIMARCA_PE_CO_MX_CL.pdf"
+    },
+    {
+      "title": "preguntas-frecuentes",
+      "text": "Preguntas frecuentes",
+      "url":"https://cdn1-prd.beautymovers.com/nextgencommerce/docs/legal/mx/preguntas-frecuentes/2022.pdf"
+    },
+    {
+      "title": "escribenos",
+      "text": "Escríbenos",
+      "url":"mailto:consultacomprasmx@belcorp.biz"
+    },
+    {
+      "title": "quiero-ser-consultora",
+      "text": "Quiero ser consultora",
+      "url":"https://uneteabelcorp.com/?vieneDe=pages_PG_Ecom&utm_source=Pagina&utm_medium=pages&utm_content=pages_PG_Ecom&utm_term=pages_PG_Ecom"
+    },
+    {
+      "title": "nuestras-tiendas",
+      "text": "Nuestras tiendas",
+      "url":"https://belcorp.esika.com/mx/nuestras-tiendas/"
+    }
+  ],
+  [
+    {
+      "socialMedia": "facebook",
+      "url":"https://www.facebook.com/esika.oficial"
+    },
+    {
+      "socialMedia": "instagram",
+      "url":"https://www.instagram.com/esika.oficial"
+    },
+    {
+      "socialMedia": "youtube",
+      "url":"https://www.youtube.com/c/EsikaBelcorp"
+    }
+  ],
+  [
+    {
+      "benefitsLogo": "safe",
+      "benefitsLogoMobile": "pagos-seguros",
+      "url":""
+    },
+    {
+      "benefitsLogo": "delivery",
+      "benefitsLogoMobile": "entregas-todo-pais",
+      "url":""
+    },
+    {
+      "benefitsLogo": "productos",
+      "benefitsLogoMobile": "productos-de-qualidad",
+      "url":""
+    }
+  ],
+  [
+    {
+      "benefits": "information-text",
+      "text":"Pagos 100% seguros"
+    },
+    {
+      "benefits": "delivery-text",
+      "text":"Entregas a todo el país"
+    },
+    {
+      "benefits": "products-text",
+      "text":"Productos de calidad"
+    }
+  ],
+  [
+    {
+      "paymentsText":""
+    }
+  ],
+  [    
+    {
+      "payments":"https://belcorp.vtexassets.com/arquivos/footer-visa-flag-icon.svg",
+      "url": "https://belcorp.vtexassets.com/arquivos/footer-visa-flag-icon.svg"
+    },
+    {
+      "payments":"https://belcorp.vtexassets.com/arquivos/footer-master-card-flag-icon.svg",
+      "url": "https://belcorp.vtexassets.com/arquivos/footer-master-card-flag-icon.svg"
+    }
+  ],
+  [
+    {
+      "title": "first",
+      "text": "Nuestras marcas"
+    },
+    {
+      "title": "second",
+      "text": "Legal"
+    },
+    {
+      "title": "third",
+      "text": "Contáctanos"
+    }
+  ],
+  [
+    {
+      "answer": "first-answer1",
+      "text": "Ésika",
+      "url": "https://esika.tiendabelcorp.com.mx"
+    },
+    {
+      "answer": "first-answer2",
+      "text": "L’Bel",
+      "url": "https://lbel.tiendabelcorp.com.mx"
+    },
+    {
+      "answer": "first-answer3",
+      "text": "Cyzone",
+      "url": "https://cyzone.tiendabelcorp.com.mx"
+    }
+  ],
+  [
+    {
+      "answer": "second-answer1",
+      "text": "Condiciones de uso",
+      "url": ""
+    },
+    {
+      "answer": "second-answer2",
+      "text": "Política de privacidad",
+      "url": ""
+    },
+    {
+      "answer": "second-answer3",
+      "text": "Términos y condiciones",
+      "url": ""
+    },
+    {
+      "answer": "second-answer4",
+      "text": "Derechos ARCO",
+      "url": ""
+    },
+    {
+      "answer": "second-answer5",
+      "text": "Autorización para el envío de publicidad",
+      "url": ""
+    },
+    {
+      "answer": "second-answer6",
+      "text": "No testeo en animales",
+      "url": ""
+    },
+    {
+      "answer": "second-answer7",
+      "text": "Política de cambios y devoluciones",
+      "url": ""
+    }
+  ],
+  [
+    {
+      "answer": "third-answer1",
+      "text": "Cómo comprar",
+      "url": ""
+    },
+    {
+      "answer": "third-answer2",
+      "text": "Escríbenos",
+      "url": ""
+    },
+    {
+      "answer": "third-answer3",
+      "text": "Quiero ser consultora",
+      "url": ""
+    }
+  ],
+  [
+    {
+      "arrowDown": "1",
+      "arrowUp":"first"
+    },
+    {
+      "arrowDown": "2",
+      "arrowUp": "second"
+    },
+    {
+      "arrowDown": "3",
+      "arrowUp": "third"
+    }
+  ]
+]

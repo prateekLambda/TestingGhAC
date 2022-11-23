@@ -1,0 +1,31 @@
+[
+    [
+        {
+            "pdpUrl": "https://cyzone.tiendabelcorp.cl/perfume-de-hombre-nitro/p",
+            "pdpUrl2": "https://cyzone.tiendabelcorp.cl/perfume-de-mujer-sweet-black/p",
+            "pdpUrlMTO": "https://cyzone.tiendabelcorp.cl/perfume-de-hombre-nitro/p?utmi_cp=RodrigoSalgado",
+            "pdpUrlstampsMTO": "https://cyzone.tiendabelcorp.cl/perfume-de-hombre-nitro/p?utmi_cp=TienditaLiam",
+            "pdpUrlstamps": "https://cyzone.tiendabelcorp.cl/perfume-de-hombre-nitro/p"
+        }
+    ],
+    [
+        {
+            "productName": "Perfume De Hombre Nitro ",
+            "fixedBarBtnText": "Agregar a la bolsa",
+            "originalPrice": "$21.600",
+            "currentPrice": "$9.720",
+            "sellingPrice": "$9.720",
+            "currentPriceSign": "$"
+        }
+    ],
+    [
+        {
+            "commentBtnText": "Escribe un comentario",
+            "imageSrc": "https://belcorpchile.vtexassets.com/arquivos/ids/272123",
+            "imageMobileSrc": "https://belcorpchile.vtexassets.com/arquivos/ids/272123",
+            "imageSrcStamp": "https://belcorp.vtexassets.com/arquivos/ids/157961",
+            "imageMobileSrcStamp": "https://belcorp.vtexassets.com/arquivos/ids/157961",
+            "stampText": "Best seller"
+        }
+    ]
+]

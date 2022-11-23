@@ -1,0 +1,21 @@
+{
+    "viewportWidth": 1280,
+    "viewportHeight": 1080,
+    "videoCompression": false,
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 15000,
+    "baseUrl": "https://cyzone.tiendabelcorp.com.co/",
+    "env": {
+        "country": "CO",
+        "brand": "Cyzone",
+        "environment": "PRD",
+        "TAGS": "@CO and not @QAS"
+    },
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/results/mochawesome",
+        "overwrite": true,
+        "html": true,
+        "json": true
+    }
+}

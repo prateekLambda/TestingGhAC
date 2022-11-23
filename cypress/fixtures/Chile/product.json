@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "ésika",
+        "Product": "Limpiadora Facial Oxygen Supreme",
+        "SKU": "200095917",
+        "urlBaseCart": "https://uatesika.tiendabelcorp.cl/limpiadora-facial-oxygen-supreme/p",
+        "url": "//uatesika.tiendabelcorp.cl/limpiadora-facial-oxygen-supreme/p",
+        "imgUrl": "https://belcorp.vteximg.com.br/arquivos/ids/158738-55-55/200111924_PDN_A_1200X1200.jpg?v=637934427370000000",
+        "couponValid": "ESIKA10",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "brand": "ésika",
+        "Product": "Ultra-Hidratación Macadamia",
+        "SKU": "200111919",
+        "urlBaseCart": "https://uatesika.tiendabelcorp.com/set-botan-maca/p",
+        "url": "//uatesika.tiendabelcorp.com/set-botan-maca/p",
+        "imgUrl": "https://belcorp.vteximg.com.br/arquivos/ids/158728-55-55/200111919_PDN_A_1200X1200.jpg?v=637934402975770000",
+        "couponValid": "ESIKA10",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "Product": "EFC14A5MNW",
+        "SKU": "1066",
+        "url": "/freezer-horizontal-electrolux-efc14a5mnw/p"
+    },
+    {
+        "Product": "ProducTestTestProduct",
+        "SKU": "9999999999999999999",
+        "url": "/ProducTestTestProduct/p"
+    }
+]

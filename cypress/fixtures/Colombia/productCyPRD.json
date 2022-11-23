@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "Cyzone",
+        "Product": "Iluminador on the Glow Studio Look",
+        "SKU": "210098881",
+        "urlBaseCart": "https://cyzone.tiendabelcorp.com.co/iluminador-on-the-glow-studio-look/p",
+        "url": "//cyzone.tiendabelcorp.com.co/iluminador-on-the-glow-studio-look/p",
+        "imgUrl": "https://belcorpchile.vteximg.com.br/arquivos/ids/238520-55-55/210098881_fotofondoblanco.jpg?v=637958698644200000",
+        "couponValid": "uat20",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "brand": "Cyzone",
+        "Product": "Labial Crayon Lips CyPlay",
+        "SKU": "210098525",
+        "urlBaseCart": "https://cyzone.tiendabelcorp.com.co/labial-crayon-lips-cyplay/p",
+        "url": "//cyzone.tiendabelcorp.com.co/labial-crayon-lips-cyplay/p",
+        "imgUrl": "https://belcorpcolombia.vtexassets.com/arquivos/ids/830242-1600-auto?v=637983016899700000",
+        "couponValid": "uat20",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "Product": "EFC14A5MNW",
+        "SKU": "1066",
+        "url": "/freezer-horizontal-electrolux-efc14a5mnw/p"
+    },
+    {
+        "Product": "ProducTestTestProduct",
+        "SKU": "9999999999999999999",
+        "url": "/ProducTestTestProduct/p"
+    }
+]

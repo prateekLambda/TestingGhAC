@@ -1,0 +1,63 @@
+{
+  "name": "cypress-acct-belcorp",
+  "version": "1.0.0",
+  "description": "Automated Tests e-Commerce Belcorp",
+  "main": "index.js",
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:desktop": "cypress open cypress/integration/Desktop/**/*",
+    "cy:mobile": "cypress open cypress/integration/Mobile/**/*",
+    "cy:dashboard": "cypress run --record --key dfbd5703-cd11-402d-97ac-a45f7c71cca8",
+    "cy:setup:data": "cypress run --spec cypress/integration/Settings/**/* && node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:cl:esika:qas": "country=CL brand=Esika environment=QAS baseUrl=https://uatesika.tiendabelcorp.com/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:cl:lbel:qas": " country=CL brand=Lbel environment=QAS baseUrl=https://uatlbel.tiendabelcorp.com/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:cl:cyzone:qas": "country=CL brand=Cyzone environment=QAS baseUrl=https://uatcyzone.tiendabelcorp.com/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:co:esika:qas": "country=CO brand=Esika environment=QAS baseUrl=https://uatesika.tiendabelcorp.com.co/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:mx:lbel:qas": " country=MX brand=Lbel environment=QAS baseUrl=https://uatlbel.tiendabelcorp.com.mx/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:cl:esika:prd": " country=CL brand=Esika environment=PRD baseUrl=https://esika.tiendabelcorp.cl/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:cl:lbel:prd": "country=CL brand=Lbel environment=PRD baseUrl=https://lbel.tiendabelcorp.cl/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:cl:cyzone:prd": "country=CL brand=Cyzone environment=PRD baseUrl=https://cyzone.tiendabelcorp.cl/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:co:esika:prd": " country=CO brand=Esika environment=PRD tags='@CO and not @QAS' baseUrl=https://esika.tiendabelcorp.com.co/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:co:cyzone:prd": "country=CO brand=Cyzone environment=PRD baseUrl=https://cyzone.tiendabelcorp.com.co/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:mx:lbel:prd": "country=MX brand=Lbel environment=PRD tags='@MX and not @QAS' baseUrl=https://lbel.tiendabelcorp.com.mx/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:pe:esika:prd": " country=PE brand=Esika environment=PRD tags='@PE and not @QAS' baseUrl=https://esikaperu.myvtex.com/ node cypress/integration/Settings/setupData.js",
+    "cy:setup:data:pe:cyzone:prd": " country=PE brand=Cyzone environment=PRD tags='@PE and not @QAS' baseUrl=https://cyzoneperu.myvtex.com/ node cypress/integration/Settings/setupData.js",
+    "cy:android": "lambdatest-cypress run --sync=true --config viewportWidth=360,viewportHeight=760 --spec cypress/integration/Mobile/**/*",
+    "cy:androidLocal": "cypress run --browser chrome --headed --config viewportWidth=360,viewportHeight=760 --spec cypress/integration/Mobile/**/*",
+    "cy:iphone": "lambdatest-cypress run --sync=true viewportWidth=390,viewportHeight=844 --spec cypress/integration/Mobile/**/*",
+    "cy:iphoneLocal": "cypress run --browser chrome --headed --config viewportWidth=390,viewportHeight=844 --spec cypress/integration/Mobile/**/*",
+    "cy:lambdatest:run": "lambdatest-cypress run --sync=true",
+    "cy:lambdatest:create:report": "lambdatest-cypress generate-report --user=hohammedestrada --access_key=g66uMrK2CbzVNBRNFy7WZitJ93RxiOlIlzzynvJbLbh01UqHwg ",
+    "execute": "npm run cy:setup:data:pe:cyzone:prd && npm run cy:lambdatest:run",
+    "upload:results": "npm run cy:lambdatest:create:report && node functions/fromLambdaToTestRail.js",
+    "runHeadless": "./node_modules/.bin/cypress run --headless",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "automation",
+    "automated",
+    "test cases",
+    "belcorp"
+  ],
+  "author": "Hohammed Estrada <hohammedestrada@belcorp.biz>, Elio Navarrete <elionavarrete@belcorp.biz>, Daniel Cardoso <daniel.cardoso@acct.global>",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "cypress": "^8.7.0",
+    "cypress-cucumber-preprocessor": "^4.3.0",
+    "cypress-mochawesome-reporter": "^3.0.0",
+    "cypress-xpath": "^1.6.2",
+    "mochawesome": "^7.1.3"
+  },
+  "dependencies": {
+    "@lambdatest/node-rest-client": "^1.0.2",
+    "dotenv": "^16.0.1",
+    "lambdatest-cypress-cli": "^2.4.6",
+    "node-fetch": "^2.6.7",
+    "testrail-api": "^1.3.6"
+  }
+}

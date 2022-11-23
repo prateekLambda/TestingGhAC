@@ -1,0 +1,23 @@
+[
+  {
+    "state": "Región Metropolitana",
+    "district": "Colina",
+    "city": "Colina",
+    "addressType": "",
+    "country": "Chile"
+  },
+  {
+    "state": "Los Ríos",
+    "district": "Mariquina",
+    "city": "Mariquina",
+    "addressType": "",
+    "country": "Chile"
+  },
+  {
+    "state": "XII Región",
+    "district": "Antártica",
+    "city": "Antártica",
+    "addressType": "",
+    "country": "Chile"
+  }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "ésika",
+        "Product": "Red Power Perfume de Mujer, 50 ml",
+        "SKU": "200106274",
+        "urlBaseCart": "https://esika.tiendabelcorp.cl/red-power-perfume-de-mujer-50-ml/p",
+        "url": "//esika.tiendabelcorp.cl/red-power-perfume-de-mujer-50-ml/p",
+        "imgUrl": "https://belcorpchile.vtexassets.com/arquivos/ids/263708-1600-auto?v=637983006534730000",
+        "couponValid": "20-off",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "brand": "ésika",
+        "Product": "Loción Perfumada Mía",
+        "SKU": "200096723",
+        "urlBaseCart": "https://esika.tiendabelcorp.cl/locion-perfumada-mia/p",
+        "url": "//esika.tiendabelcorp.cl/locion-perfumada-mia/p",
+        "imgUrl": "https://belcorpchile.vtexassets.com/arquivos/ids/259369-800-auto?v=637982934433930000",
+        "couponValid": "20-off",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "Product": "EFC14A5MNW",
+        "SKU": "1066",
+        "url": "/freezer-horizontal-electrolux-efc14a5mnw/p"
+    },
+    {
+        "Product": "ProducTestTestProduct",
+        "SKU": "9999999999999999999",
+        "url": "/ProducTestTestProduct/p"
+    }
+]

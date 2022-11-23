@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "lbel",
+        "Product": "Spa Collection Crema para Manos Lavanda",
+        "SKU": "200108726",
+        "urlBaseCart": "https://lbel.tiendabelcorp.com.mx/spa-collection-crema-para-manos-lavanda/p",
+        "url": "//lbel.tiendabelcorp.com.mx/spa-collection-crema-para-manos-lavanda/p",
+        "imgUrl": "https://lbelmexico.vtexassets.com/arquivos/ids/846129-1600-auto?v=1751341184",
+        "couponValid": "separte30",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "brand": "lbel",
+        "Product": "Bleu Intense Night Perfume para Hombre 100 ml",
+        "SKU": "200106854",
+        "urlBaseCart": "https://lbel.tiendabelcorp.com.mx/bleu-intense-night-perfume-para-hombre-100-ml/p",
+        "url": "//lbel.tiendabelcorp.com.mx/bleu-intense-night-perfume-para-hombre-100-ml/p",
+        "imgUrl": "https://belcorpmexico.vtexassets.com/arquivos/ids/850273-1600-auto?v=638003616186670000",
+        "couponValid": "separte30",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "Product": "EFC14A5MNW",
+        "SKU": "1066",
+        "url": "/freezer-horizontal-electrolux-efc14a5mnw/p"
+    },
+    {
+        "Product": "ProducTestTestProduct",
+        "SKU": "9999999999999999999",
+        "url": "/ProducTestTestProduct/p"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    [
+        {
+          "index": "1",
+          "imageUrl": "https://lbelchile.vtexassets.com/assets/vtex.file-manager-graphql/images/823f6625-3693-48dd-9485-858150d4cb07___35c9e673a982a34dc1cdaaa020bd0917.jpg"
+        },
+        {
+          "index": "2",
+          "imageUrl": "https://lbelchile.vtexassets.com/assets/vtex.file-manager-graphql/images/ab68929d-353c-443a-ae27-ea5fd7fdfc0a___265fac09d3de23fa7ec36dbe0ccc8e79.jpg"
+        },
+        {
+          "index": "3",
+          "imageUrl": "https://lbelchile.vtexassets.com/assets/vtex.file-manager-graphql/images/91a366ee-e860-400f-b2b8-df0afaab6847___6404963d2c7dcc6680a6dc28a7f57a10.jpg"
+        },
+        {
+          "index": "4",
+          "imageUrl": "https://lbelchile.vtexassets.com/assets/vtex.file-manager-graphql/images/2546d673-efba-47e1-a65d-3bfe1ad4070e___b951e233996c255be5836d9600c9d51f.jpg"
+        },
+        {
+          "index": "5",
+          "imageUrl": "https://lbelchile.vtexassets.com/assets/vtex.file-manager-graphql/images/df275143-8636-4fb8-ae7e-7780ef1390d3___343b65d77eb57fe40372b9f38517b247.jpg"
+        }
+      ],
+    [ 
+        {
+          "index": "1",
+          "categoryName": "Maquillaje"
+        },
+        {
+          "index": "2",
+          "categoryName": "Perfumes"
+        },
+        {
+          "index": "3",
+          "categoryName": "Tratamiento facialNuevo perfume Autentik"
+        },
+        {
+          "index": "4",
+          "categoryName": "Cuidado personal"
+        },
+        {
+          "index": "5",
+          "categoryName": "Joyería"
+        }
+      ],
+      [
+        {
+          "sectionTitleCateg": "Compra por categoría"
+        }
+      ],
+      [
+        {
+          "yoElijoTitle": "L’BEL donde belleza, salud y tecnología se fusionan*",
+          "yoElijoSubTitle": "#LBELREDEFINEBELLEZA"
+        }
+      ],
+      [
+        {
+          "yoElijoImage": "https://esikachile.vtexassets.com/assets/vtex.file-manager-graphql/images/4cc5a3e4-8973-4c4f-90f3-9982792b7a93___68e14f462d8ed2d2f748284b59b0180b.jpg",
+          "yoElijoImageMobile": "https://esika.vtexassets.com/arquivos/yoelijoesika-image.jpg",
+          "yoElijoImageLogo": "https://esika.vtexassets.com/arquivos/e-logo-esika-right.svg"
+        }
+      ],
+      [
+        {
+          "quoteTitle": "Confianza es belleza, belleza es confianza.",
+          "quoteImage": "https://esikachile.vtexassets.com/arquivos/quotation.svg"
+        }
+      ],
+      [
+        {
+          "imageBlogUrl": "https://esikachile.vtexassets.com/assets/vtex.file-manager-graphql/images/22697669-ddb3-4a9a-a4e8-dbc0d6b212ae___2a88a530e540237314db992f5c4d5209.jpg",
+          "imageCatalogUrl": "https://esikachile.vtexassets.com/assets/vtex.file-manager-graphql/images/e1799b64-d9b4-4c56-9ab8-82de5e23288a___1d66f0f325001fcaddf9aa1d56abfb15.jpg",
+          "imageBlogUrlMobile": "https://esikachile.vtexassets.com/assets/vtex.file-manager-graphql/images/22697669-ddb3-4a9a-a4e8-dbc0d6b212ae___2a88a530e540237314db992f5c4d5209.jpg",
+          "imageCatalogUrlMobile": "https://esikachile.vtexassets.com/assets/vtex.file-manager-graphql/images/e1799b64-d9b4-4c56-9ab8-82de5e23288a___1d66f0f325001fcaddf9aa1d56abfb15.jpg"
+        }
+      ],
+      [
+        {
+          "textTitleBlog": "Magazine L’BEL",
+          "textSubTitleBlog": "Artículos, novedades y más",
+          "btnTextBlog": "Ir al blog",
+          "textTitleCatalog": "Setiembre 2022",
+          "textSubTitleCatalog": "Catálogo online",
+          "btnTextCatalog": "Ir al catálogo"
+        }
+      ],
+      [ "1", "2", "3", "4" ],
+      [
+        {
+          "detailBtnText": "Ver detalle"
+        }
+      ],
+      [ "0", "1" ],
+      [
+        {
+          "carouselFirstTitle": "Los más vendidos de L’BEL",
+          "carouselFirstSubTitle": "Conoce nuestros productos top en ventas"
+
+        }
+      ]
+  ]

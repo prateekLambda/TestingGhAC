@@ -1,0 +1,105 @@
+[
+    [
+        {
+          "index": "1",
+          "imageUrl": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/3430cd93-a2d3-4776-915a-8c87ae71036a___cebd1bca9c8aa317d141598cd40fcf8b.jpg"
+        },
+        {
+          "index": "2",
+          "imageUrl": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/99981b1f-8ae5-4c4f-9912-63e0db0ebdfc___0ec4cea4fed2d6170bbd536b2de7384d.jpg"
+        },
+        {
+          "index": "3",
+          "imageUrl": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/aac01130-a2af-4215-a0db-a3d6da422921___53bbe06ce2e5fa9e1d857d94581b0da9.jpg"
+        },
+        {
+          "index": "4",
+          "imageUrl": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/ce04f328-220d-4682-9c33-2c1b98656197___f7634201298ad5e92aa0085d293f5bf0.jpg"
+        },
+        {
+          "index": "5",
+          "imageUrl": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/4dbb6040-6481-4f83-9387-b558006bb128___00c3509221ae90304ef735b02fe39110.jpg"
+        }
+      ],
+    [ 
+      {
+        "index": "1",
+        "categoryName": "MaquillajeMaquillaje CyPlay"
+      },
+      {
+        "index": "2",
+        "categoryName": "PerfumesNuevos Serums Skin First"
+      },
+      {
+        "index": "3",
+        "categoryName": "SkincareRegalos"
+      },
+      {
+        "index": "4",
+        "categoryName": "Cuidado personalFavoritos"
+      },
+      {
+        "index": "5",
+        "categoryName": "Moda y accesorios"
+      }
+    ],
+      [
+        {
+          "sectionTitleCateg": "Compra por categoría"
+        }
+      ],
+      [
+        {
+          "yoElijoTitle": "Belleza accesible que nos conecta",
+          "yoElijoSubTitle": "#ContigoParaTi"
+        }
+      ],
+      [
+        {
+          "yoElijoImage": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/aeab026c-a888-4221-9970-2a6bd48875eb___43401105fc195aed0a0ae792ad3eb50f.jpg",
+          "yoElijoImageMobile": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/aeab026c-a888-4221-9970-2a6bd48875eb___43401105fc195aed0a0ae792ad3eb50f.jpg",
+          "yoElijoImageLogo": "https://esika.vtexassets.com/arquivos/e-logo-esika-right.svg"
+        }
+      ],
+      [
+        {
+          "quoteTitle": "Últimas tendencias, máxima calidad y productos que te sorprenden",
+          "quoteImage": ""
+        }
+      ],
+      [
+        {
+          "imageBlogUrl": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/8675b6e3-d430-413a-bff4-c1ff622cc6d2___c0c6f07948e434d76bb998f654735f2b.jpg",
+          "imageCatalogUrl": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/aaa96a30-7eae-4603-a17a-0ce564ed812a___4f5ceb852fddde7eb2ed1af4d825955e.jpg",
+          "imageBlogUrlMobile": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/8675b6e3-d430-413a-bff4-c1ff622cc6d2___c0c6f07948e434d76bb998f654735f2b.jpg",
+          "imageCatalogUrlMobile": "https://cyzonechile.vtexassets.com/assets/vtex.file-manager-graphql/images/aaa96a30-7eae-4603-a17a-0ce564ed812a___4f5ceb852fddde7eb2ed1af4d825955e.jpg"
+        }
+      ],
+      [
+        {
+          "textTitleBlog": "CyBlog",
+          "textSubTitleBlog": "Tips, moda, tutoriales y más",
+          "btnTextBlog": "Ir al blog",
+          "textTitleCatalog": "Setiembre 2022",
+          "textSubTitleCatalog": "Catálogo online",
+          "btnTextCatalog": "Ir al catálogo",
+          "textTitlePromotions": "Studio Look",
+          "textSubTitlePromotions": "Tu línea de larga duración",
+          "btnTextPromotions": "Ver más"
+        }
+      ],
+      [ "1", "2", "3", "4" ],
+      [
+        {
+          "detailBtnText": "Ver detalle"
+        }
+      ],
+      [ "0", "1" ],
+      [
+        {
+          "carouselFirstTitle": "nueva línea cyplay",
+          "carouselFirstSubTitle": "Makeup de máxima pigmentación"
+
+        }
+      ]
+  ]

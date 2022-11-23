@@ -1,0 +1,38 @@
+[    
+    {
+        "promoType": "More For less",
+        "promoName": "Promo 3x2 Red Power",
+        "promoSKU": "200106274",
+        "promoFullPrice": "$ 33.290",
+        "promoFreePrice": "Obsequio elegido!",
+        "promoSubTotal": "$ 99.870",
+        "promoDiscount": "$ -49.935",
+        "promoTotal": "$ 49.935"
+    },
+    {
+        "promoType": "Buy together",
+        "promoName": "Descuento promos émotions",
+        "promoSKU": "200106274",
+        "promoFullPrice": "$ 37.000",
+        "promoBuyTogetherPrice": "$ 33.290",
+        "promoSKU2": "200105328",
+        "promoFullPrice2": "$ 17.990",
+        "promoBuyTogetherPrice2": "$ 18.990",        
+        "promoSubTotal": "$ 52.280",
+        "promoDiscount": "$ -26.140",
+        "promoTotal": "$ 26.140"
+    },    
+    {
+        "promoType": "Gift",
+        "promoName": "RXC buy vibranza get ritualeza",
+        "promoSKU": "200091328",
+        "promoFullPrice": "",
+        "promoBuyTogetherPrice": "",
+        "promoSKU2": "",
+        "promoFullPrice2": "",
+        "promoBuyTogetherPrice2": "",        
+        "promoSubTotal": "",
+        "promoDiscount": "",
+        "promoTotal": ""
+    }    
+]

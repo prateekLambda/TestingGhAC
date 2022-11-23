@@ -1,0 +1,33 @@
+[
+    [
+        {
+        "consultoraUrl": ""
+        }
+    ],
+    [
+        {
+        "consultoraName": "Maria",
+        "consultoraLastName": "P",
+        "consultoraArea": "Lima"
+        },
+        {
+        "consultoraName": "CRISTINA",
+        "consultoraLastName": "PAREDES",
+        "consultoraArea": "Lima"
+        }        
+    ],  
+    [
+        {
+        "consultoraInvalidName": "zyzy",
+        "consultoraInvalidLastName": "zyzy"
+        },
+        {
+        "": ""
+        }        
+    ],
+    [
+        {
+        "noResultMsg": "No encontramos consultoras con ese nombre en esta región.”"
+        }       
+    ]
+]

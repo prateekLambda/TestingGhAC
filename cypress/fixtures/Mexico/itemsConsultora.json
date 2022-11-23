@@ -1,0 +1,33 @@
+[
+    [
+        {
+        "consultoraUrl": ""
+        }
+    ],
+    [
+        {
+        "consultoraName": "Maria",
+        "consultoraLastName": "A",
+        "consultoraArea": "Ciudad de México"
+        },
+        {
+        "consultoraName": "Maria",
+        "consultoraLastName": "Gasca",
+        "consultoraArea": "Ayelen2008"
+        }        
+    ],
+    [
+        {
+        "consultoraInvalidName": "zyzy",
+        "consultoraInvalidLastName": "zyzy"
+        },
+        {
+        "": ""
+        }        
+    ],
+    [
+        {
+        "noResultMsg": "No encontramos consultoras con ese nombre en esta región.”"
+        }       
+    ]
+]

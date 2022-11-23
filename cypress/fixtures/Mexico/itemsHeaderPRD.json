@@ -1,0 +1,156 @@
+[
+  [
+    {
+      "logo": "Esika",
+      "logoImage": "https://belcorp.vtexassets.com/arquivos/logo-top-esika-selected.jpg",
+      "logoLink": "https://esika.tiendabelcorp.com.mx/",
+      "logoMobile": "esika",
+      "logoImageMobile": "https://belcorp.vtexassets.com/arquivos/logo-top-esika-selected.jpg"
+    },
+    {
+      "logo": "Lbel",
+      "logoImage": "https://belcorp.vtexassets.com/arquivos/logo-top-lbel-unselected.jpg",      
+      "logoLink": "https://lbel.tiendabelcorp.com.mx/",
+      "logoMobile": "lbel",
+      "logoImageMobile": "https://esikachile.vtexassets.com/arquivos/logo-top-lbel-unselected.jpg"
+    },
+    {
+      "logo": "Cyzone",
+      "logoImage": "https://belcorp.vtexassets.com/arquivos/logo-top-cyzone-unselected.jpg",      
+      "logoLink": "https://cyzone.tiendabelcorp.com.mx/",
+      "logoMobile": "cyzone",
+      "logoImageMobile": "https://esikachile.vtexassets.com/arquivos/logo-top-cyzone-unselected.jpg"
+    }
+  ],
+  [
+    {
+      "consultBtnText": "Quiero ser consultora",
+      "consultUrl": "https://uneteabelcorp.com/"
+    }
+  ],
+  [
+    {
+      "findConsultIcon": "/consultora",
+      "findConsultText": "Compra a través de una consultora online",
+      "findConsultLink": "https://esika.tiendabelcorp.com.mx/consultora"
+    }
+  ],
+  [
+    {
+      "brandLogo": "https://esikamexico.vtexassets.com/assets/vtex.file-manager-graphql/images/905664aa-08ee-4a48-83ca-d51415962240___041b35f8cf780f56bfffa2607c4cb85d.png",
+      "brandLogoLink": "https://esika.tiendabelcorp.com.mx",
+      "brandLogoMobile": "https://esikachile.vtexassets.com/assets/vtex.file-manager-graphql/images/ce924ebd-cadf-4042-b145-00e333bca786___7ff1becac06703a9d7c3d894ef776d3a.png"
+    }
+  ],
+  [
+    {
+      "placeHolderText": "Estoy buscando..."
+    }
+  ],    
+  [
+    ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+  ],
+  [
+    ["1", "2", "3", "4", "5", "6", "7", "8"]
+  ],
+  [
+    {
+      "index": "0",
+      "menuCategoryNameMobile": "Lo Nuevo"
+    },
+    {
+      "index": "1",
+      "menuCategoryNameMobile": ""
+    },
+    {
+      "index": "2",
+      "menuCategoryNameMobile": ""
+    },
+    {
+      "index": "3",
+      "menuCategoryNameMobile": ""
+    },
+    {
+      "index": "4",
+      "menuCategoryNameMobile": ""
+    },
+    {
+      "index": "5",
+      "menuCategoryNameMobile": ""
+    },
+    {
+      "index": "6",
+      "menuCategoryNameMobile": ""
+    }
+  ],
+  [
+    {
+      "index": "0",
+      "menuCategoryNameMobile2": "Favoritos"
+    },
+    {
+      "index": "1",
+      "menuCategoryNameMobile2": "Sets"
+    },
+    {
+      "index": "2",
+      "menuCategoryNameMobile2": "Maquillaje"
+    },
+    {
+      "index": "3",
+      "menuCategoryNameMobile2": "Perfumes"
+    }
+  ],
+  [
+    {
+      "menuBannerMobileUrl": "https://belcorp.vtexassets.com/arquivos/secondlvlimage.png"
+     }
+  ],
+  [
+    {
+      "typeTwoChar": "pe",
+      "typeInvalidChar": "zz",
+      "noSuggestionText": "Sin Sugerencias",
+      "mostSearchUrl": "https://esika.tiendabelcorp.cl/perfume?_q=perfume&map=ft"
+     }
+  ],
+  [
+    {
+      "index": "0",
+      "menuCategoryName": "Lo Nuevo"
+    },
+    {
+      "index": "1",
+      "menuCategoryName": "Maquillaje"
+    },
+    {
+      "index": "2",
+      "menuCategoryName": "Perfumes"
+    },
+    {
+      "index": "3",
+      "menuCategoryName": "Skincare"
+    },
+    {
+      "index": "4",
+      "menuCategoryName": "Cuidado personal"
+    },
+    {
+      "index": "5",
+      "menuCategoryName": "Joyeria"
+    },
+    {
+      "index": "6",
+      "menuCategoryName": "Favoritos"
+    },
+      {
+      "index": "7",
+      "menuCategoryName": "Regalos"
+    },
+    {
+      "index": "8",
+      "menuCategoryName": "Blog"
+    }
+  ]
+
+]

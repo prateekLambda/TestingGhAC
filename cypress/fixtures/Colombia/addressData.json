@@ -1,0 +1,22 @@
+[
+  {
+    "state": "Bogotá, D.C.",
+    "district": "Bogotá, D.c.",
+    "city": "Bogotá, D.c.",
+    "addressType": "",
+    "country": "Colombia"
+  },
+  {
+    "state": "Antioquia",
+    "district": "Medellín",
+    "city": "Medellín",
+    "addressType": "",
+    "country": "Colombia"
+  },
+  {
+    "state": "Valle Del Cauca",
+    "city": "Cali",
+    "addressType": "",
+    "country": "Colombia"
+  }
+]

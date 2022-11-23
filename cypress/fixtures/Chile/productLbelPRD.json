@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "lbel",
+        "Product": "Liasson Perfume de Mujer Larga Duración 50 ml",
+        "SKU": "200084882",
+        "urlBaseCart": "https://lbel.tiendabelcorp.cl/liasson-perfume-de-mujer-larga-duracion-50-ml/p",
+        "url": "//lbel.tiendabelcorp.cl/liasson-perfume-de-mujer-larga-duracion-50-ml/p",
+        "imgUrl": "https://belcorpchile.vtexassets.com/arquivos/ids/272120",
+        "couponValid": "20-off",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "brand": "lbel",
+        "Product": "Máscara Tratante de Pestañas 6 g",
+        "SKU": "200105071",
+        "urlBaseCart": "https://lbel.tiendabelcorp.cl/mascara-tratante-de-pestanas-6-g/p",
+        "url": "//lbel.tiendabelcorp.cl/mascara-tratante-de-pestanas-6-g/p",
+        "imgUrl": "https://lbelchile.vtexassets.com/arquivos/ids/277230",
+        "couponValid": "20-off",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "Product": "EFC14A5MNW",
+        "SKU": "1066",
+        "url": "/freezer-horizontal-electrolux-efc14a5mnw/p"
+    },
+    {
+        "Product": "ProducTestTestProduct",
+        "SKU": "9999999999999999999",
+        "url": "/ProducTestTestProduct/p"
+    }
+]

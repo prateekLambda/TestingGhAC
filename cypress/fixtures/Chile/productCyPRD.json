@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "Cyzone",
+        "Product": "Perfume De Hombre Nitro",
+        "SKU": "200039855",
+        "urlBaseCart": "https://cyzone.tiendabelcorp.cl/perfume-de-hombre-nitro/p",
+        "url": "//cyzone.tiendabelcorp.cl/perfume-de-hombre-nitro/p",
+        "imgUrl": "https://belcorpchile.vtexassets.com/arquivos/ids/272123-1600-auto?v=637998137861930000",
+        "couponValid": "20-off",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "brand": "Cyzone",
+        "Product": "Perfume De Mujer Sweet Black",
+        "SKU": "200089168",
+        "urlBaseCart": "https://cyzone.tiendabelcorp.cl/perfume-de-mujer-sweet-black/p",
+        "url": "//cyzone.tiendabelcorp.cl/perfume-de-mujer-sweet-black/p",
+        "imgUrl": "https://cyzonechile.vtexassets.com/arquivos/ids/272170-800-auto?v=1750617393",
+        "couponValid": "20-off",
+        "couponInvalid": "NCP-Brinde"
+    },
+    {
+        "Product": "EFC14A5MNW",
+        "SKU": "1066",
+        "url": "/freezer-horizontal-electrolux-efc14a5mnw/p"
+    },
+    {
+        "Product": "ProducTestTestProduct",
+        "SKU": "9999999999999999999",
+        "url": "/ProducTestTestProduct/p"
+    }
+]

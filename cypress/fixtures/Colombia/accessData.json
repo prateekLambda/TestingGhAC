@@ -1,0 +1,29 @@
+[
+  {
+    "correctEmail": "hohammedestrada@belcorp.biz",
+    "correctPassword": "H0h4mmed",
+    "incorrectPassword": "Belcorp22",
+    "incorrectEmail": "lorenzo1786.lafgmail.com",
+    "validationLoginName": "Hohammed Estrada",
+    "validationLoginNameMobile": "Hohammed!"
+  },
+  {
+    "correctEmail": "acctestezin@gmail.com",
+    "correctPassword": "@Teste2020",
+    "incorrectPassword": "BelcorpChile",
+    "incorrectEmail": "falhas.falagmail.com",
+    "validationLoginName": "",
+    "validationLoginNameMobile": ""
+  },
+  {
+    "storeUrl": "LauraR21",
+    "storeName": "Laura  Katerine"
+  },
+  {
+    "storeUrl": "tindaonline7676",
+    "storeName": "Dennys Leonor"
+  },
+  {
+    "storeUrl": "LauraR21"
+  }
+]

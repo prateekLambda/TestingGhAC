@@ -1,0 +1,22 @@
+[
+  {
+    "state": "Lima",
+    "district": "Lima",
+    "city": "La Victoria",
+    "addressType": "",
+    "country": "Perú"
+  },
+  {
+    "state": "Lima",
+    "district": "Lima",
+    "city": "La Molina",
+    "addressType": "",
+    "country": "Perú"
+  },
+  {
+    "state": "",
+    "city": "",
+    "addressType": "",
+    "country": "Perú"
+  }
+]

@@ -1,0 +1,156 @@
+[
+    [
+      {
+        "logo": "Esika",
+        "logoImage": "https://belcorp.vtexassets.com/arquivos/brand_logo_header_esika.svg",        
+        "logoLink": "https://esika.tiendabelcorp.com.pa/",
+        "logoMobile": "esika",
+        "logoImageMobile": "https://belcorp.vtexassets.com/arquivos/brand_logo_header_esika.svg"
+      },
+      {
+        "logo": "Lbel",
+        "logoImage": "https://lbelchile.vtexassets.com/arquivos/logo-top-lbel-selected.jpg",        
+        "logoLink": "https://lbel.tiendabelcorp.com.pa/",
+        "logoMobile": "lbel",
+        "logoImageMobile": "https://lbelchile.vtexassets.com/arquivos/logo-top-lbel-selected.jpg"
+      },
+      {
+        "logo": "Cyzone",
+        "logoImage": "https://lbel.vtexassets.com/arquivos/logo-top-cyzone-unselected.jpg",        
+        "logoLink": "https://cyzone.tiendabelcorp.com.pa/",
+        "logoMobile": "cyzone",
+        "logoImageMobile": "https://lbel.vtexassets.com/arquivos/logo-top-cyzone-unselected.jpg"
+      }
+    ],
+    [
+      {
+        "consultBtnText": "Quiero ser consultora",
+        "consultUrl": "https://uneteabelcorp.com"
+      }
+    ],
+    [
+      {
+        "findConsultIcon": "/consultora",
+        "findConsultText": "Compra a través de una consultora online",
+        "findConsultLink": "https://lbelpanama.myvtex.com/consultora"
+      }
+    ],
+    [
+      {
+        "brandLogo": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/1382b072-acbf-4aef-8582-94d8f66b8bc4___2168cd9d9f06368e7124d8eb25106320.png",
+        "brandLogoLink": "https://esika.tiendabelcorp.com.co",
+        "brandLogoMobile": "https://esikachile.myvtex.com/arquivos/esika-logo-brand-mobile.svg"
+      }
+    ],
+    [
+      {
+        "placeHolderText": "Estoy buscando..."
+      }
+    ],    
+    [
+      ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+    ],
+    [
+      ["1", "2", "3", "4", "5", "6", "7", "8"]
+    ],
+    [
+      {
+        "index": "0",
+        "menuCategoryNameMobile": "Lo Nuevo"
+      },
+      {
+        "index": "1",
+        "menuCategoryNameMobile": ""
+      },
+      {
+        "index": "2",
+        "menuCategoryNameMobile": ""
+      },
+      {
+        "index": "3",
+        "menuCategoryNameMobile": ""
+      },
+      {
+        "index": "4",
+        "menuCategoryNameMobile": ""
+      },
+      {
+        "index": "5",
+        "menuCategoryNameMobile": ""
+      },
+      {
+        "index": "6",
+        "menuCategoryNameMobile": ""
+      }
+    ],
+    [
+      {
+        "index": "0",
+        "menuCategoryNameMobile2": "Favoritos"
+      },
+      {
+        "index": "1",
+        "menuCategoryNameMobile2": "Sets"
+      },
+      {
+        "index": "2",
+        "menuCategoryNameMobile2": "Maquillaje"
+      },
+      {
+        "index": "3",
+        "menuCategoryNameMobile2": "Perfumes"
+      }
+    ],
+    [
+      {
+        "menuBannerMobileUrl": "https://belcorp.vtexassets.com/arquivos/secondlvlimage.png"
+       }
+    ],
+    [
+      {
+        "typeTwoChar": "pe",
+        "typeInvalidChar": "zz",
+        "noSuggestionText": "Sin Sugerencias",
+        "mostSearchUrl": "https://lbel.tiendabelcorp.com.mx/bleu?_q=bleu&map=ft"
+       }
+    ],
+    [
+      {
+        "index": "0",
+        "menuCategoryName": "Lo Nuevo"
+      },
+      {
+        "index": "1",
+        "menuCategoryName": "Maquillaje"
+      },
+      {
+        "index": "2",
+        "menuCategoryName": "Perfumes"
+      },
+      {
+        "index": "3",
+        "menuCategoryName": "Skincare"
+      },
+      {
+        "index": "4",
+        "menuCategoryName": "Cuidado personal"
+      },
+      {
+        "index": "5",
+        "menuCategoryName": "Joyeria"
+      },
+      {
+        "index": "6",
+        "menuCategoryName": "Favoritos"
+      },
+        {
+        "index": "7",
+        "menuCategoryName": "Regalos"
+      },
+      {
+        "index": "8",
+        "menuCategoryName": "Blog"
+      }
+    ]
+
+]

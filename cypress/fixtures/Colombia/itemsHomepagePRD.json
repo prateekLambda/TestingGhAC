@@ -1,0 +1,102 @@
+[
+    [
+        {
+          "index": "1",
+          "imageUrl": "https://esika.vtexassets.com/arquivos/categorie-maquillaje.jpg"
+        },
+        {
+          "index": "2",
+          "imageUrl": "https://esikacolombia.vtexassets.com/assets/vtex.file-manager-graphql/images/6fd73ec5-d669-49d3-9913-2a7f980b8275___2dac120d8ec57aa616b6d19038e40e8a.jpg"
+        },
+        {
+          "index": "3",
+          "imageUrl": "https://esika.vtexassets.com/arquivos/categorie-cuidado-de-la-piel.jpg"
+        },
+        {
+          "index": "4",
+          "imageUrl": "https://esikacolombia.vtexassets.com/assets/vtex.file-manager-graphql/images/ce8b58eb-15b3-4577-8781-fe0b35092eea___cbbcd1296051c6d06afaa32f1b559ddc.jpg"
+        },
+        {
+          "index": "5",
+          "imageUrl": "https://esika.vtexassets.com/arquivos/categorie-joyeria.jpg"
+        }
+    ],
+    [ 
+        {
+          "index": "1",
+          "categoryName": "Maquillaje"
+        },
+        {
+          "index": "2",
+          "categoryName": "Perfumes"
+        },
+        {
+          "index": "3",
+          "categoryName": "Skincare"
+        },
+        {
+          "index": "4",
+          "categoryName": "Cuidado personal"
+        },
+        {
+          "index": "5",
+          "categoryName": "Joyería"
+        }
+    ],
+    [
+        {
+          "sectionTitleCateg": "Elige tu categoría"
+        }
+    ],
+    [
+        {
+          "yoElijoTitle": "La marca que eligen millones de mujeres.",
+          "yoElijoSubTitle": "#YoElijoésika"
+        }
+    ],
+    [
+        {
+          "yoElijoImage": "https://esikacolombia.vtexassets.com/assets/vtex.file-manager-graphql/images/a4dc7480-17dc-460b-8f96-bd81350b4405___0ae9d5fdf4c70697db92f46df83626cc.jpg",
+          "yoElijoImageMobile": "https://esika.vtexassets.com/arquivos/yoelijoesika-image.jpg",
+          "yoElijoImageLogo": "https://esika.vtexassets.com/arquivos/e-logo-esika-right.svg"
+        }
+    ],
+    [
+        {
+          "quoteTitle": "Confianza es belleza, belleza es confianza.",
+          "quoteImage": "https://esikachile.vtexassets.com/arquivos/quotation.svg"
+        }
+    ],
+    [
+        {
+          "imageBlogUrl": "https://esikacolombia.vtexassets.com/assets/vtex.file-manager-graphql/images/c95d2113-defe-426e-bfef-6364c55e5af0___81a828ec6b36a2d12181cbef8a4a403b.jpg",
+          "imageCatalogUrl": "https://esikacolombia.vtexassets.com/assets/vtex.file-manager-graphql/images/bc7a508d-fff4-4b0b-8936-9e7d8cbe15e3___d8ac965cf100eb8eeb68f6ebb550984b.jpg",
+          "imageBlogUrlMobile": "https://esikacolombia.vtexassets.com/assets/vtex.file-manager-graphql/images/c95d2113-defe-426e-bfef-6364c55e5af0___81a828ec6b36a2d12181cbef8a4a403b.jpg",
+          "imageCatalogUrlMobile": "https://esikacolombia.vtexassets.com/assets/vtex.file-manager-graphql/images/bc7a508d-fff4-4b0b-8936-9e7d8cbe15e3___d8ac965cf100eb8eeb68f6ebb550984b.jpg"
+        }
+    ],
+    [
+        {
+          "textTitleBlog": "ésika TREND",
+          "textSubTitleBlog": "Blogs, novedades y más",
+          "btnTextBlog": "Ir al blog",
+          "textTitleCatalog": "Lo nuevo de Colorfix",
+          "textSubTitleCatalog": "Maquillaje 24/7 ¡a prueba de todo!",
+          "btnTextCatalog": "Conoce más"
+        }
+    ],
+    [ "1", "2", "3", "4" ],
+    [
+        {
+          "detailBtnText": "Ver detalle"
+        }
+    ],
+    [ "0", "1" ],
+    [
+        {
+          "carouselFirstTitle": "Colorfix ¡a prueba de todo!",
+          "carouselFirstSubTitle": "Maquillaje 24/7 para mujeres imparables como tú"
+
+        }
+    ]
+  ]

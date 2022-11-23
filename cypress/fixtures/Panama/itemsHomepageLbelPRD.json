@@ -1,0 +1,105 @@
+[
+    [
+        {
+          "index": "1",
+          "imageUrl": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/e66eaf6a-1c2a-4026-9d4a-fe20556abda8___35c9e673a982a34dc1cdaaa020bd0917.jpg"
+        },
+        {
+          "index": "2",
+          "imageUrl": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/fbb2aa28-f0c6-4616-8855-eb66eb8744df___265fac09d3de23fa7ec36dbe0ccc8e79.jpg"
+        },
+        {
+          "index": "3",
+          "imageUrl": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/9545de7d-9d2b-43e7-850e-5c9d4ee7baab___6404963d2c7dcc6680a6dc28a7f57a10.jpg"
+        },
+        {
+          "index": "4",
+          "imageUrl": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/c11768dc-2a0a-4bad-805e-40f3836770d4___b951e233996c255be5836d9600c9d51f.jpg"
+        },
+        {
+          "index": "5",
+          "imageUrl": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/f6829173-9b98-42c1-a51a-9768ee4039ec___343b65d77eb57fe40372b9f38517b247.jpg"
+        }
+      ],
+    [ 
+        {
+          "index": "1",
+          "categoryName": "Cuidado de la PielSet Rutina Completa"
+        },
+        {
+          "index": "2",
+          "categoryName": "PerfumesLabiales"
+        },
+        {
+          "index": "3",
+          "categoryName": "MaquillajeMaquillaje que cuida tu piel"
+        },
+        {
+          "index": "4",
+          "categoryName": "Cuidado personalFragancias Masculinas Bleu"
+        },
+        {
+          "index": "5",
+          "categoryName": "Sets"
+        }
+      ],
+      [
+        {
+          "sectionTitleCateg": "Compra por categoría"
+        }
+      ],
+      [
+        {
+          "yoElijoTitle": "L'BEL donde belleza, salud y tecnología se fusionan*",
+          "yoElijoSubTitle": "#LBELREDEFINEBELLEZA"
+        }
+      ],
+      [
+        {
+          "yoElijoImage": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/da519038-e735-40fc-b127-5f5b586fdf9f___1d2a3eaae1f48c86e8c5dc3d22fcb1a9.jpg",
+          "yoElijoImageMobile": "https://esika.vtexassets.com/arquivos/yoelijoesika-image.jpg",
+          "yoElijoImageLogo": "https://esika.vtexassets.com/arquivos/e-logo-esika-right.svg"
+        }
+      ],
+      [
+        {
+          "quoteTitle": "",
+          "quoteImage": ""
+        }
+      ],
+      [
+        {
+          "imageBlogUrl": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/ca24999e-4e60-4712-becc-4cffe3a80780___1c2fddafc9aa7757be585741d6b46773.jpg",
+          "imageCatalogUrl": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/3320b478-96cf-417b-8cf8-569545150e43___cf722d01ce1dd91f48ad0c31720fa196.jpg",
+          "imageBlogUrlMobile": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/ca24999e-4e60-4712-becc-4cffe3a80780___1c2fddafc9aa7757be585741d6b46773.jp",
+          "imageCatalogUrlMobile": "https://lbelmexico.vtexassets.com/assets/vtex.file-manager-graphql/images/3320b478-96cf-417b-8cf8-569545150e43___cf722d01ce1dd91f48ad0c31720fa196.jpg"
+        }
+      ],
+      [
+        {
+          "textTitleBlog": "Magazine L’BEL",
+          "textSubTitleBlog": "Artículos, novedades y más",
+          "btnTextBlog": "Ir al blog",
+          "textTitleCatalog": "Setiembre 2022",
+          "textSubTitleCatalog": "Catálogo online",
+          "btnTextCatalog": "Ir al catálogo",
+          "textTitlePromotions": "Promociones",
+          "textSubTitlePromotions": "Las mejores ofertas",
+          "btnTextPromotions": "Ver más"
+        }
+      ],
+      [ "1", "2", "3", "4" ],
+      [
+        {
+          "detailBtnText": "Ver detalle"
+        }
+      ],
+      [ "0", "1" ],
+      [
+        {
+          "carouselFirstTitle": "Los más vendidos de L'BEL",
+          "carouselFirstSubTitle": "Conoce nuestros productos top en ventas"
+
+        }
+      ]
+  ]

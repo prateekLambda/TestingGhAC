@@ -1,0 +1,16 @@
+[
+  {
+    "documentID": "09740475",
+    "gender": "Masculino",
+    "birthDate":"01/01/1980",
+    "phone":"945 234 422",
+    "RUT": ""
+  },
+  {
+    "documentID": "45859602",
+    "gender": "Femenino",
+    "birthDate":"02/02/1990",
+    "phone":"956 768 125",
+    "RUT": ""
+  }
+]
