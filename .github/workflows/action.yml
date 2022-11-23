@@ -53,9 +53,15 @@ jobs:
   executeE2eTests:
     runs-on: ubuntu-latest
     name: Execute E2E Tests
+    
     steps:
+      - uses: actions/github-script@v6
+        env:
+          country: '${{inputs.country}}'
+          brand: '${{inputs.brand}}'
+          environment : '${{inputs.environment}}'
       - name: Starting CLI testing
-        shell: bash
+        shell: bash   
         run: |
             git clone https://github.com/prateekLambda/TestingGhAC.git
             cd TestingGhAC
