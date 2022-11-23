@@ -54,7 +54,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Execute E2E Tests
     steps:
-      - uses: actions/github-script@v6
+      - uses: actions/github-script@v2
         env:
           country: CL
           brand: Esika
