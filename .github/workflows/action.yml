@@ -42,18 +42,18 @@ on:
   workflow_call:
 
 name: QA Workflow Release
+env:
+    country: ${{github.event.inputs.country}}
+    brand: ${{github.event.inputs.brand}}
+    environment : ${{github.event.inputs.environment}}   
 jobs:
   executeE2eTests:
     runs-on: ubuntu-latest
     name: Execute E2E Tests
+ 
     
     steps:
-     
-      - name: set 
-        env:
-          country: ${{github.event.inputs.country}}
-          brand: ${{github.event.inputs.brand}}
-          environment : ${{github.event.inputs.environment}}
+
       - name: Starting CLI testing
         shell: bash   
         run: |
