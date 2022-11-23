@@ -40,13 +40,6 @@ on:
         required: true
         type: string
   workflow_call:
-    secrets:
-      download_token:
-        required: true
-      TR_USER:
-        required: true
-      TR_PASSWORD:
-        required: true
 
 name: QA Workflow Release
 jobs:
@@ -55,6 +48,7 @@ jobs:
     name: Execute E2E Tests
     
     steps:
+     
       - uses: actions/github-script@v6
         env:
           country: ${{github.event.inputs.country}}
