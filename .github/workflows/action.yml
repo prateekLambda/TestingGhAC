@@ -54,9 +54,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Execute E2E Tests
     steps:
-      - uses: actions/checkout@v3
-        with:
-          repository: 'https://github.com/prateekLambda/TestingGhAC.git'
       - uses: actions/github-script@v6
         env:
           country: '${{inputs.country}}'
@@ -65,6 +62,8 @@ jobs:
       - name: Starting CLI testing
         shell: bash
         run: |
+            git clone https://github.com/prateekLambda/TestingGhAC.git
+            cd TestingGhAC
             const script = require('./.github/workflows/url.js')
             console.log("VTEX BASE URL:")
             console.log(script({core, context}))
