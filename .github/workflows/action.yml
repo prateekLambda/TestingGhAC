@@ -57,9 +57,9 @@ jobs:
     steps:
       - uses: actions/github-script@v6
         env:
-          country: '${{inputs.country}}'
-          brand: '${{inputs.brand}}'
-          environment : '${{inputs.environment}}'
+          country: ${{github.event.inputs.country}}
+          brand: ${{github.event.inputs.brand}}
+          environment : ${{github.event.inputs.environment}}
       - name: Starting CLI testing
         shell: bash   
         run: |
